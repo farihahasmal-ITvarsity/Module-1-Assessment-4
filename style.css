@@ -1,0 +1,208 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    font-family: fantasy;
+    font-size: xxx-large;
+    color:aliceblue;
+    text-align: center;
+}
+a {
+    font-family: fantasy;
+    font-size: xxx-large;
+    color:rgba(204, 175, 10, 0.882);
+    text-align: center;
+    text-decoration: none;
+    margin-top: 200px;
+}    
+a:hover{
+    font-family: fantasy;
+    font-size: xxx-large;
+    color:rgb(252, 22, 1);
+    text-align: center;
+    text-decoration: none;
+}
+th {
+    font-weight: 800;
+    font-size: large;
+    background-color: #0080FF;
+    color: #000000;
+    max-width: 80%;
+    max-height: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+td {
+    color: #ffffff;
+    text-align: center; 
+    font-size: x-large;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+body.index {
+    background-image: url('images/cinema.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body.table {
+    background-image: url('images/background.jpg!sw800');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row-1:hover{
+    background-image: url('images/avatar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 10%;
+}
+.row-2:hover{
+    background-image: url('images/avengersendgame.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 20%;
+}
+.row-3:hover{
+    background-image: url('images/avatarthewayofwater.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 10%;
+}
+.row-4:hover{
+    background-image: url('images/titanic.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 10%;
+}
+.row-5:hover{
+    background-image: url('images/starwarstheforceawakens.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+.row-6:hover{
+    background-image: url('images/avengersinfinitywar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row-7:hover{
+    background-image: url('images/spidermannowayhome.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 20%;
+}
+.row-8:hover{
+    background-image: url('images/jurassicworld.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 20%;
+}
+.row-9:hover{
+    background-image: url('images/thelionking.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+.row-10:hover{
+    background-image: url('images/theavengers.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10px;
+    background-position: center 30%;
+}
+.row-11:hover{
+    background-image: url('images/furious7.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30px;
+    background-position: center 55%;
+}
+.row-12:hover{
+    background-image: url('images/topgunmaverick.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 5px;
+    background-position: center 20%;
+}
+.row-13:hover{
+    background-image: url('images/frozen2.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 40px;
+    background-position: center 20%;
+}
+.row-14:hover{
+    background-image: url('images/barbie.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 10%;
+}
+.row-15:hover{
+    background-image: url('images/avengersageofultron.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 20%;
+}
+.row-16:hover{
+    background-image: url('images/supermariobros.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 30%;
+}
+.row-17:hover{
+    background-image: url('images/blackpanther.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row-18:hover{
+    background-image: url('images/harrypotterandthedeathlyhallowspart2.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row-19:hover{
+    background-image: url('images/starwarsthelastjedi.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+.row-20:hover{
+    background-image: url('images/jurassicworldfallenkingdom.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 30%;
+}
+.row-21:hover{
+    background-image: url('images/frozen.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+.row-22:hover{
+    background-image: url('images/beautyandthebeast.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 20%;
+}
+.row-23:hover{
+    background-image: url('images/incredibles2.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+.row-24:hover{
+    background-image: url('images/thefateofthefurious.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+.row-25:hover{
+    background-image: url('images/ironman3.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: right center;
+}
